@@ -9,5 +9,4 @@ class ProductAttribute extends Model
 {
     use HasFactory;
     protected $table = 'product_attributes';
-    213e1e3e31
 }
